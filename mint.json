@@ -1,18 +1,30 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
+  "theme": "quill",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#FF680A",
+    "light": "#FF8534",
+    "dark": "#E85A00",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#FF680A",
+      "to": "#FF8534"
+    }
+  },
+  "typography": {
+    "body": {
+      "fontFamily": "Bricolage Grotesque"
+    },
+    "headings": {
+      "fontFamily": "Bricolage Grotesque"
+    },
+    "monospace": {
+      "fontFamily": "Bricolage Grotesque"
     }
   },
   "topbarLinks": [
