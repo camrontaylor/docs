@@ -10,7 +10,7 @@
   "fonts": {
     "family": "Bricolage Grotesque, sans-serif",
     "weight": 400,
-    "source": "https://raw.githubusercontent.com/camrontaylor/docs/main/fonts/BricolageGrotesque.woff2",
+    "source": "https://github.com/camrontaylor/docs/blob/725a7ace441f07b5a8c49651ec8c898ed5287a1e/fonts/BricolageGrotesque.woff2",
     "format": "woff2"
   },
   "favicon": "/favicon.svg",
