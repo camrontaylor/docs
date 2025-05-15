@@ -8,7 +8,8 @@
     "dark": "#E84500"
   },
   "font": {
-    "family": "Bricolage Grotesque"
+    "family": "Bricolage Grotesque, sans-serif",
+    "google": "Bricolage+Grotesque:400,500,600,700"
   },
   "favicon": "/favicon.svg",
   "navigation": {
