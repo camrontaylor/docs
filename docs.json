@@ -3,9 +3,12 @@
   "theme": "maple",
   "name": "Starter Kit",
   "colors": {
-    "primary": "#FF680A",
-    "light": "#FF8534",
-    "dark": "#E85A00"
+    "primary": "#FF4F01",
+    "light": "#FF7134",
+    "dark": "#E84500"
+  },
+  "font": {
+    "family": "Bricolage Grotesque"
   },
   "favicon": "/favicon.svg",
   "navigation": {
