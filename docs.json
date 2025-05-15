@@ -3,29 +3,11 @@
   "theme": "maple",
   "name": "Camron Taylor",
   "colors": {
-    "primary": "#FF4F01",
-    "light": "#FF7134",
-    "dark": "#E84500"
+    "primary": "#FF680A",
+    "light": "#FF8534",
+    "dark": "#E85A00"
   },
-  "fonts": {
-    "family": "Bricolage Grotesque, sans-serif",
-    "weight": 400,
-    "source": "https://github.com/camrontaylor/docs/blob/a708357b106d4cd943f07a00db8a0ab641f44e82/fonts/BricolageGrotesque-Regular.woff2",
-    "format": "woff2"
-  },
-  "heading": {
-    "family": "Bricolage Grotesque, sans-serif",
-    "weight": 700,
-    "source": "https://github.com/camrontaylor/docs/blob/a708357b106d4cd943f07a00db8a0ab641f44e82/fonts/BricolageGrotesque-Regular.woff2",
-    "format": "woff2"
-  },
-  "body": {
-    "family": "Bricolage Grotesque, sans-serif",
-    "weight": 400,
-    "source": "https://github.com/camrontaylor/docs/blob/a708357b106d4cd943f07a00db8a0ab641f44e82/fonts/BricolageGrotesque-Regular.woff2",
-    "format": "woff2"
-  },
-  "favicon": "/favicon.svg",
+  "favicon": "/Logo Mark.png",
   "navigation": {
     "tabs": [
       {
