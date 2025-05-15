@@ -10,19 +10,19 @@
   "fonts": {
     "family": "Bricolage Grotesque, sans-serif",
     "weight": 400,
-    "source": "https://raw.githubusercontent.com/camrontaylor/docs/main/fonts/BricolageGrotesque.woff2",
+    "source": "https://github.com/camrontaylor/docs/blob/a708357b106d4cd943f07a00db8a0ab641f44e82/fonts/BricolageGrotesque-Regular.woff2",
     "format": "woff2"
   },
   "heading": {
     "family": "Bricolage Grotesque, sans-serif",
     "weight": 700,
-    "source": "https://raw.githubusercontent.com/camrontaylor/docs/main/fonts/BricolageGrotesque.woff2",
+    "source": "https://github.com/camrontaylor/docs/blob/a708357b106d4cd943f07a00db8a0ab641f44e82/fonts/BricolageGrotesque-Regular.woff2",
     "format": "woff2"
   },
   "body": {
     "family": "Bricolage Grotesque, sans-serif",
     "weight": 400,
-    "source": "https://raw.githubusercontent.com/camrontaylor/docs/main/fonts/BricolageGrotesque.woff2",
+    "source": "https://github.com/camrontaylor/docs/blob/a708357b106d4cd943f07a00db8a0ab641f44e82/fonts/BricolageGrotesque-Regular.woff2",
     "format": "woff2"
   },
   "favicon": "/favicon.svg",
