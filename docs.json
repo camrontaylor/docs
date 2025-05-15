@@ -7,9 +7,11 @@
     "light": "#FF7134",
     "dark": "#E84500"
   },
-  "font": {
+  "fonts": {
     "family": "Bricolage Grotesque, sans-serif",
-    "google": "Bricolage+Grotesque:400,500,600,700"
+    "weight": 400,
+    "source": "https://raw.githubusercontent.com/camrontaylor/docs/main/fonts/BricolageGrotesque.woff2",
+    "format": "woff2"
   },
   "favicon": "/favicon.svg",
   "navigation": {
